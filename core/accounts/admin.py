@@ -6,7 +6,7 @@ from django.contrib.auth.forms import UserCreationForm
 
 class CustomUserCreationForm(UserCreationForm):
     """
-    Class for Custom Form
+    Class for Custom Form.
     """
 
     class Meta:
